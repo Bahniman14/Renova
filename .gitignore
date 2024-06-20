@@ -1,0 +1,12 @@
+# Ignore Python cache folder
+__pycache__
+
+# Ignore virtual environment folder
+my_venv/
+
+# Ignore a specific folder
+Sample folder/
+
+# Ignore specific Python files
+private.py
+GEMdev.py
